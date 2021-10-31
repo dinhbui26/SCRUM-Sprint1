@@ -17,7 +17,7 @@ class Hello extends Component {
         <Text style={{ color: 'red' }}>I'm {this.state.age} years old </Text>
         <Text style={{ backgroundColor: 'cyan' }}>and we have is {this.state.weight} kg</Text>
         <View style={{ margin: 50 }}>
-          <Button title="NEXT YEAR" onPress={() => this.onPressNextYear()} />
+          <Button title="Hell I am HACKER HEHE" onPress={() => this.onPressNextYear()} />
         </View>
       </View>
     );
